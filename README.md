@@ -1,6 +1,6 @@
 # OpenExchangeRates
 
-Client library for talking to Open Exchange Rates API. Support one endpoint - /historical
+Client library for talking to [Open Exchange Rates API](https://openexchangerates.org/documentation). Support one endpoint - [historical](https://openexchangerates.org/documentation#historical-data)
 
 ## Installation
 
